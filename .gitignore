@@ -1,0 +1,5 @@
+bin/
+obj/
+/packages/
+/.vs/RabbitMqSample02
+/.idea
